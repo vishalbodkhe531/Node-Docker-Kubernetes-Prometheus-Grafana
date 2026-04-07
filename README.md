@@ -27,3 +27,5 @@
 --------------------------------END-NODE-SETUP---------------------------------------------
 
 7] npm i prom-client -> It support to histogram , summaries
+
+8] install helm (Windows amd64) -> Kubernets package manager
