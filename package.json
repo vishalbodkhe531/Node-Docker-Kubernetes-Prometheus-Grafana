@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/vishalbodkhe531/Node-Docker-Kubernetes-Prometheus-Grafana#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
