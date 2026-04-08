@@ -29,3 +29,4 @@ app.listen(PORT, () => {
 });
 
 
+// helm install prometheus prometheus-community/prometheus --namespace monitoring --create-namespace --set server.service.type=NodePort --set server.service.nodePort=30090 --set alertmanager.enabled=false
